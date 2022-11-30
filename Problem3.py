@@ -20,4 +20,4 @@ def largest_prime_factor(x):
         i+=2
     return factors
 
-print(prime_factors(600851475143))
+print(largest_prime_factor(600851475143))
