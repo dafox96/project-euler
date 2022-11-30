@@ -3,7 +3,7 @@
 
 import math
 
-def prime_factors(x):
+def largest_prime_factor(x):
     factors = []
     if x%2 == 0: 
         factors.append(2)
